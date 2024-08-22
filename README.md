@@ -1,2 +1,2 @@
 # OnlineThermocoupleLab
-This repository is Flask application for Thermocouple laboratory, Student will sign in and get into Zoom meeting via "meetingSDKElement" , The instructor helped by OpenAI Assistant which will explain student when they have a questions"
+This repository contains a Flask application designed for a Thermocouple laboratory. Students can sign in and access Zoom meetings via the "meetingSDKElement." During the sessions, an OpenAI Assistant will be available to assist the instructor by providing explanations and answering student questions.
